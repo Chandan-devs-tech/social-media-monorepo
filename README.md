@@ -1,6 +1,6 @@
 # Social Media Application
 
-This repository contains the source code for a full-stack social media application. The project is built with the MERN stack (MySQL, Express.js, React.js/Next.js, Node.js) and is intended to offer features such as user authentication, posting content, liking posts, Commenting users, and more.
+This repository contains the source code for a full-stack social media application. The project is built with the MERN stack (MySQL, Express.js, React.js/Next.js, Node.js) and is intended  to offer features such as user authentication, posting content, liking posts, Commenting users, and more.
 
 ## Table of Contents
 
